@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356813960170",
+    "project_id": "fir-proyect-f6d99",
+    "storage_bucket": "fir-proyect-f6d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356813960170:android:874bae452e12005f1eb893",
+        "android_client_info": {
+          "package_name": "paola.rivera.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXlfGzGqlysaHbWeUJjX7oFdYltYGLog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
